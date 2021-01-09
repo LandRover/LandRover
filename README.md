@@ -1,1 +1,1 @@
-![image](https://github.com/LandRover/LandRover/blob/master/dino.gif)
+![image](https://github.com/LandRover/LandRover/blob/main/dino.gif)
